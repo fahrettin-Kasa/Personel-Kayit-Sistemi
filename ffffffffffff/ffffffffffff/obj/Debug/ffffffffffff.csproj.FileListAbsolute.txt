@@ -1,0 +1,14 @@
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\bin\Debug\ffffffffffff.exe.config
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\bin\Debug\ffffffffffff.exe
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\bin\Debug\ffffffffffff.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.csproj.AssemblyReference.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.Form1.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.Properties.Resources.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.csproj.GenerateResource.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.csproj.CoreCompileInputs.cache
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.exe
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.pdb
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.frmistatisik.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.frmgrafik.resources
+C:\Users\kasaf\OneDrive\Masaüstü\Yeni klasör\ffffffffffff\ffffffffffff\obj\Debug\ffffffffffff.frmyonetici.resources
